@@ -1,0 +1,16 @@
+{
+    "background_color": "#fff",
+    "display": "standalone",
+    "icons": [{
+        "src": "images/apple-touch-icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }],
+    "name": "Superqbit - Salesforce Blog - 2022",
+    "short_name": "Superqbit - Salesforce Blog - 2022",
+    "start_url": "/",
+    "theme_color": "#fff",
+    "description": "Superqbit - A website with amazing tools like Salesforce Trailhead Trailblazer Leaderboard where you can find your rank among 100k + trailblazers, Certification Header Creator which can create a header for LinkedIn, Twitter with your flashy certificate badges, Trailblazer Trailhead's Analytics to see the distribution to Certificates, badges by country, company, and Rank. A codebase for reusable code snippets with small documentation. And many more apps in the queue to serve the community.",
+	"content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
+}
+  
