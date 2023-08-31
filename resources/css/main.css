@@ -240,7 +240,7 @@ code, kbd, pre, samp {
 	}
 }
 body {
-	background-image: var(--lwc-brandBandDefaultImage,url(/assets/images/themes/oneSalesforce/banner-brand-default.png?cache=64342463)),linear-gradient(to top, var(--lwc-brandBackgroundDarkTransparent,rgba(1, 68, 134, 0)) 0, var(--lwc-brandBackgroundDark,rgb(1, 68, 134))) !important;
+	background-image: var(--lwc-brandBandDefaultImage,url(https://cdnjs.cloudflare.com/ajax/libs/design-system/2.22.0/images/themes/oneSalesforce/banner-brand-default.png?cache=64342463)),linear-gradient(to top, var(--lwc-brandBackgroundDarkTransparent,rgba(1, 68, 134, 0)) 0, var(--lwc-brandBackgroundDark,rgb(1, 68, 134))) !important;
 }
 body {
 	overflow-y: scroll;
