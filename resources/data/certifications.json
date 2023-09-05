@@ -1,0 +1,349 @@
+[
+    {
+        "Name": "Salesforce", "Title": "Salesforce", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/",
+        "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "Administrator.png", "title": "Administrator" },
+            { "src": "Advanced.Administrator.png", "title": "Advanced Administrator" },
+            { "src": "App.Builder.png", "title": "Platform App Builder" },
+            { "src": "Business Analyst.png", "title": "Business Analyst" },
+            { "src": "Programmer.I.png", "title": "Platform Developer I" },
+            { "src": "Programmer.II.png", "title": "Platform Developer II" },
+
+            { "src": "Associate.png", "title": "Associate" },
+            { "src": "Sales-Representative.png", "title": "Sales Representative" },
+
+            { "src": "System.Architect.png", "title": "System Architect" },
+            { "src": "Heroku.Architect.png", "title": "Heroku Architect" },
+            { "src": "Technical.Architect.png", "title": "Technical Architect" },
+
+            { "src": "B2B.Solution.Architect.png", "title": "B2B Solution Architect" },
+            { "src": "B2C.Solution.Architect.png", "title": "B2C Solution Architect" },
+            { "src": "B2C.Commerce.Architect.png", "title": "B2C Commerce Architect" },
+            { "src": "B2C.Commerce.Developer.png", "title": "B2C Commerce Developer" },
+
+            { "src": "Industries.CPQ.Developer.png", "title": "Industries CPQ Developer" },
+            { "src": "JavaScript.Developer.png", "title": "JavaScript Developer I" },
+
+            { "src": "Marketing.Cloud.Administrator.png", "title": "Marketing Cloud Administrator" },
+            { "src": "Marketing.Cloud.Consultant.png", "title": "Marketing Cloud Consultant" },
+            { "src": "Marketing.Cloud.Developer.png", "title": "Marketing Cloud Developer" },
+            { "src": "Marketing.Cloud.Email.Specialist.png", "title": "Marketing Cloud Email Specialist" },
+
+            { "src": "Pardot.Consultant.png", "title": "Pardot Consultant" },
+            { "src": "Pardot.Specialist.png", "title": "Pardot Specialist" },
+
+            { "src": "Application.Architect.png", "title": "Application Architect" },
+            { "src": "Data.Architect.png", "title": "Data Architect" },
+            { "src": "Dev.Lifecycle.and.Deploy.Architect.png", "title": "Development Lifecycle and Deployment Architect" },
+            { "src": "ID.and.Access.Mgmt.Architect.png", "title": "Identity and Access Management Architect" },
+            { "src": "Sharing.and.Visibility.Architect.png", "title": "Sharing and Visibility Architect" },
+            { "src": "Integration.Architect.png", "title": "Integration Architect" },
+
+            { "src": "Field.Service.Lightning.Consultant.png", "title": "Field Service Consultant" },
+            { "src": "Nonprofit.Cloud.Consultant.png", "title": "Nonprofit Cloud Consultant" },
+            { "src": "Sales.Consultant.png", "title": "Sales Cloud Consultant" },
+            { "src": "Service.Consultant.png", "title": "Service Cloud Consultant" },
+            { "src": "Tableau.Einstein.Analytics.Discovery.Consultant.png", "title": "Tableau CRM and Einstein Discovery Consultant" },
+            { "src": "Certified.Ux.Designer.png", "title": "User Experience Designer" },
+            { "src": "Strategy Designer.png", "title": "Strategy Designer" },
+            { "src": "Education.Cloud.Consultant.png", "title": "Education Cloud Consultant" },
+            { "src": "CPQ.Specialist.png", "title": "CPQ Specialist" },
+            { "src": "Experience.Cloud.Consultant.png", "title": "Experience Cloud Consultant" },
+
+            { "src": "Omnistudio.Consultant.png", "title": "OmniStudio Consultant" },
+            { "src": "Omnistudio.Developer.png", "title": "OmniStudio Developer" },
+
+            { "src": "Force.com.Developer.png", "title": "Force.com Developer" },
+            { "src": "Force.com.Advanced.Developer.png", "title": "Force.com Advanced Developer" },
+            { "src": "Marketing Cloud Social Specialist.png", "title": "Marketing Cloud Social Specialist" },
+            { "src": "Mobile Solutions Architecture Designer.png", "title": "Mobile Solutions Architecture Designer" }
+        ]
+    },
+    {
+        "Name": "Trailblazer", "Title": "Trailblazer", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/tbzrRank/",
+        "Type": "one",
+        "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "scout.png", "title": "Scout" },
+            { "src": "hiker.png", "title": "Hiker" },
+            { "src": "explorer.png", "title": "Explorer" },
+            { "src": "adventurer.png", "title": "Adventurer" },
+            { "src": "mountaineer.png", "title": "Mountaineer" },
+            { "src": "expeditioner.png", "title": "Expeditioner" },
+            { "src": "ranger.png", "title": "Ranger" },
+            { "src": "double-star-ranger.png", "title": "Double Star Ranger" },
+            { "src": "triple-star-ranger.png", "title": "Triple Star Ranger" },
+            { "src": "four-star-ranger.png", "title": "Four Star Ranger" },
+            { "src": "five-star-ranger.png", "title": "Five Star Ranger" },
+            { "src": "all-star-ranger.png", "title": "All Star Ranger" }
+        ]
+    },
+    {
+        "Name": "Salesforce Accredited", "Title": "Salesforce Accredited", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/Accredited/",
+        "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "Advanced Cross Channel.png", "title": "Advanced Cross Channel" },
+            { "src": "Advanced Field Service.png", "title": "Advanced Field Service" },
+            { "src": "B2B Commerce on Lightning Experience Administrator.png", "title": "B2B Commerce on Lightning Experience Administrator" },
+            { "src": "B2B Commerce on Lightning Experience Developer.png", "title": "B2B Commerce on Lightning Experience Developer" },
+            { "src": "Commerce Cloud Einstein.png", "title": "Commerce Cloud Einstein" },
+            { "src": "Consumer Goods Cloud.png", "title": "Consumer Goods Cloud" },
+            { "src": "data-cloud.png", "title": "Data Cloud" },
+            { "src": "Datorama.png", "title": "Datorama" },
+            { "src": "Digital Engagement.png", "title": "Digital Engagement" },
+            { "src": "Einstein Discovery.png", "title": "Einstein Discovery" },
+            { "src": "Einstein Next Best Action.png", "title": "Einstein Next Best Action" },
+            { "src": "Einstein Prediction Builder.png", "title": "Einstein Prediction Builder" },
+            { "src": "Financial Services Cloud.png", "title": "Financial Services Cloud" },
+            { "src": "Headless API First.png", "title": "Headless API First" },
+            { "src": "Health Cloud.png", "title": "Health Cloud" },
+            { "src": "Heroku Developer.png", "title": "Heroku Developer" },
+            { "src": "Interaction Studio.png", "title": "Interaction Studio" },
+            { "src": "Manufacturing Cloud.png", "title": "Manufacturing Cloud" },
+            { "src": "Net Zero Cloud.png", "title": "Net Zero Cloud" },
+            { "src": "Order Management Administrator.png", "title": "Order Management Administrator" },
+            { "src": "Order Management Developer.png", "title": "Order Management Developer" },
+            { "src": "Pardot Business Units.png", "title": "Pardot Business Units" },
+            { "src": "Pardot Reporting and Analytics.png", "title": "Pardot Reporting and Analytics" },
+            { "src": "Process Automation.png", "title": "Process Automation" },
+            { "src": "Public Sector Solutions Accredited Professional.png", "title": "Public Sector Solutions Accredited Professional" },
+            { "src": "Revenue Cloud Consultant.png", "title": "Revenue Cloud Consultant" },
+            { "src": "Sales Cloud Einstein.png", "title": "Sales Cloud Einstein" },
+            { "src": "Salesforce CDP Accredited Professional.png", "title": "Salesforce CDP Accredited Professional" },
+            { "src": "Salesforce CMS.png", "title": "Salesforce CMS" },
+            { "src": "Salesforce Maps.png", "title": "Salesforce Maps" },
+            { "src": "Salesforce Mobile Professional.png", "title": "Salesforce Mobile Professional" },
+            { "src": "Security & Privacy Accredited Professional.png", "title": "Security & Privacy Accredited Professional" },
+            { "src": "Service Cloud Voice.png", "title": "Service Cloud Voice" },
+
+            { "src": "B2B Commerce Developer.png", "title": "B2B Commerce Developer" },
+            { "src": "B2B Commerce Administrator.png", "title": "B2B Commerce Administrator" },
+            { "src": "Accredited.Sales.Professional.png", "title": "Sales Professional" }
+        ]
+    },
+    {
+        "Name": "Superbadge", "Title": "Superbadge", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/sb/",
+        "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "Access Governance Superbadge Unit.png", "title": "Access Governance Superbadge Unit" },
+            { "src": "Admin Super Set.png", "title": "Admin Super Set" },
+            { "src": "Advanced Apex Specialist.png", "title": "Advanced Apex Specialist" },
+            { "src": "Advanced Billing Specialist.png", "title": "Advanced Billing Specialist" },
+            { "src": "Apex Specialist.png", "title": "Apex Specialist" },
+            { "src": "App Builder Super Set.png", "title": "App Builder Super Set" },
+            { "src": "App Customization Specialist.png", "title": "App Customization Specialist" },
+            { "src": "Application Security Specialist Superbadge.png", "title": "Application Security Specialist Superbadge" },
+            { "src": "Approval Process Management Superbadge Unit.png", "title": "Approval Process Management Superbadge Unit" },
+            { "src": "Approval Process Specialist Superbadge.png", "title": "Approval Process Specialist Superbadge" },
+            { "src": "Approval Process Troubleshooting Superbadge Unit.png", "title": "Approval Process Troubleshooting Superbadge Unit" },
+            { "src": "Authentication Governance Superbadge Unit.png", "title": "Authentication Governance Superbadge Unit" },
+            { "src": "Billing Specialist.png", "title": "Billing Specialist" },
+            { "src": "Billing Specialist Super Set.png", "title": "Billing Specialist Super Set" },
+            { "src": "Business Administration Specialist.png", "title": "Business Administration Specialist" },
+            { "src": "CRM Analytics Data Preparation Specialist.png", "title": "CRM Analytics Data Preparation Specialist" },
+            { "src": "CRM Analytics Super Set.png", "title": "CRM Analytics Super Set" },
+            { "src": "CRM Analytics and Einstein Discovery Insights Specialist.png", "title": "CRM Analytics and Einstein Discovery Insights Specialist" },
+            { "src": "Connected App Security Superbadge Unit.png", "title": "Connected App Security Superbadge Unit" },
+            { "src": "Data Categorization and Access Superbadge Unit.png", "title": "Data Categorization and Access Superbadge Unit" },
+            { "src": "Data Integration Specialist.png", "title": "Data Integration Specialist" },
+            { "src": "Data Protection Superbadge Unit.png", "title": "Data Protection Superbadge Unit" },
+            { "src": "Data Security Specialist Superbadge.png", "title": "Data Security Specialist Superbadge" },
+            { "src": "Developer Super Set.png", "title": "Developer Super Set" },
+            { "src": "Extended User Access and Restriction Superbadge Unit.png", "title": "Extended User Access and Restriction Superbadge Unit" },
+            { "src": "Financial Services Cloud Specialist.png", "title": "Financial Services Cloud Specialist" },
+            { "src": "Flow Administration Superbadge Unit.png", "title": "Flow Administration Superbadge Unit" },
+            { "src": "Flow Debugging Superbadge Unit.png", "title": "Flow Debugging Superbadge Unit" },
+            { "src": "Flow Elements and Resources Specialist Superbadge.png", "title": "Flow Elements and Resources Specialist Superbadge" },
+            { "src": "Flow Error Handling Superbadge Unit.png", "title": "Flow Error Handling Superbadge Unit" },
+            { "src": "Flow Fundamentals Superbadge Unit.png", "title": "Flow Fundamentals Superbadge Unit" },
+            { "src": "Flow Interactions Superbadge Unit.png", "title": "Flow Interactions Superbadge Unit" },
+            { "src": "Flow Management Specialist Superbadge.png", "title": "Flow Management Specialist Superbadge" },
+            { "src": "Flow Optimization Superbadge Unit.png", "title": "Flow Optimization Superbadge Unit" },
+            { "src": "Flow Collections and Loops Superbadge Unit.png", "title": "Flow Collections and Loops Superbadge Unit"},
+            { "src": "Flow Data Collections Optimization Superbadge Unit.png", "title": "Flow Data Collections Optimization Superbadge Unit" },
+            { "src": "Flow Data Collections Specialist Superbadge.png", "title": "Flow Data Collections Specialist Superbadge"},
+            { "src": "Health Cloud Specialist.png", "title": "Health Cloud Specialist" },
+            { "src": "Lightning Experience Reports & Dashboards Specialist.png", "title": "Lightning Experience Reports & Dashboards Specialist" },
+            { "src": "Lightning Implementation Specialist.png", "title": "Lightning Implementation Specialist" },
+            { "src": "Lightning Web Components Specialist.png", "title": "Lightning Web Components Specialist" },
+            { "src": "Multi-Factor Authentication and Single Sign-On Settings Superbadge Unit.png", "title": "Multi-Factor Authentication and Single Sign-On Settings Superbadge Unit" },
+            { "src": "Process Automation Specialist.png", "title": "Process Automation Specialist" },
+            { "src": "Record-Triggered Flow Superbadge Unit.png", "title": "Record-Triggered Flow Superbadge Unit" },
+            { "src": "Salesforce Security Advocate Superbadge Unit.png", "title": "Salesforce Security Advocate Superbadge Unit" },
+            { "src": "Scheduled Flow and Subflow Superbadge Unit.png", "title": "Scheduled Flow and Subflow Superbadge Unit" },
+            { "src": "Screen Flow Distribution Superbadge Unit.png", "title": "Screen Flow Distribution Superbadge Unit" },
+            { "src": "Screen Flow Fundamentals Superbadge Unit.png", "title": "Screen Flow Fundamentals Superbadge Unit" },
+            { "src": "Screen Flow Specialist Superbadge.png", "title": "Screen Flow Specialist Superbadge" },
+            { "src": "Screenless Flow Specialist Superbadge.png", "title": "Screenless Flow Specialist Superbadge" },
+            { "src": "Secure Application Lifecycle Management Superbadge Unit.png", "title": "Secure Application Lifecycle Management Superbadge Unit" },
+            { "src": "Security Advocacy Specialist Superbadge.png", "title": "Security Advocacy Specialist Superbadge" },
+            { "src": "Security Governance Specialist Superbadge.png", "title": "Security Governance Specialist Superbadge" },
+            { "src": "Security Specialist.png", "title": "Security Specialist" },
+            { "src": "Selling with Sales Cloud Specialist.png", "title": "Selling with Sales Cloud Specialist" },
+            { "src": "Service Cloud Specialist.png", "title": "Service Cloud Specialist" },
+            { "src": "Session Security Superbadge Unit.png", "title": "Session Security Superbadge Unit" },
+            { "src": "User Access Fundamentals.png", "title": "User Access Fundamentals" },
+            { "src": "User Access Specialist.png", "title": "User Access Specialist" },
+            { "src": "User Access Troubleshooting.png", "title": "User Access Troubleshooting" },
+            { "src": "User Authentication Settings Superbadge Unit.png", "title": "User Authentication Settings Superbadge Unit" },
+            { "src": "User Authentication Specialist Superbadge.png", "title": "User Authentication Specialist Superbadge" },
+            { "src": "User Authentication Troubleshooting Superbadge Unit.png", "title": "User Authentication Troubleshooting Superbadge Unit" }
+        ]
+    },
+    {
+        "Name": "AWS", "Title": "AWS", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/aws/",
+        "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "Cloud.Practitioner.png", "title": "AWS Certified Cloud Practitioner" },
+            { "src": "Solutions.Architect.Associate.png", "title": "AWS Certified Solutions Architect - Associate" },
+            { "src": "Developer.Associate.png", "title": "AWS Certified Developer - Associate" },
+            { "src": "Sysops.Administrator.Associate.png", "title": "AWS Certified Sysops Administrator - Associate" },
+            { "src": "Solutions.Architect.Professional.png", "title": "AWS Certified Solutions Architect - Profressional" },
+            { "src": "DevOps.png", "title": "AWS Certified Dev Ops Engineer - Profressional" },
+            { "src": "Advanced.Networking.Specialty.png", "title": "AWS Certified Advanced Networking Specialty - Speciality" },
+            { "src": "data.analytics.specialty.png", "title": "AWS Certified Data Analytics - Speciality" },
+            { "src": "Security.Specialty.png", "title": "AWS Certified Security - Speciality" },
+            { "src": "Machine.Learning.Specialty.png", "title": "AWS Certified Machine Learning - Speciality" },
+            { "src": "database.specialty.png", "title": "AWS Certified Database - Speciality" }
+        ]
+    },
+    {
+        "Name": "Mulesoft", "Title": "Mulesoft", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/mule/",
+        "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "MuleSoft Certified Developer - Level 1.png", "title": "MuleSoft Certified Developer - Level 1" },
+            { "src": "MuleSoft Certified Developer - Level 2.png", "title": "MuleSoft Certified Developer - Level 2" },
+            { "src": "MuleSoft Certified Integration Associate.svg", "title": "MuleSoft Certified Integration Associate" },
+            { "src": "MuleSoft Certified Integration Architect - Level 1.png", "title": "MuleSoft Certified Integration Architect - Level 1" },
+            { "src": "MuleSoft Certified Platform Architect - Level 1.png", "title": "MuleSoft Certified Platform Architect - Level 1" }
+        ]
+    },
+    {
+        "Name": "Copado", "Title": "Copado", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/copado/",
+        "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "c1.png", "title": "Consultant" },
+            { "src": "f1.png", "title": "Fundamentals I" },
+            { "src": "f2.png", "title": "Fundamentals II" },
+            { "src": "Essentials+01.png", "title": "Essentials+" },
+            { "src": "Extension Builder.png", "title": "Extension Builder" },
+            { "src": "CRT-Certified-Badge.png", "title": "Copado Robotic Testing" }
+        ]
+    },
+    {
+        "Name": "Tableau", "Title": "Tableau", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/tableau/",
+        "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [                
+            { "src": "Tableau Desktop Specialist.png", "title": "Tableau Certified Desktop Specialist" },               
+            { "src": "Tableau Certified Data Analyst.png", "title": "Tableau Certified Data Analyst" },
+            { "src": "Tableau Server Certified Associate.png", "title": "Tableau Server Certified Associate" },
+            { "src": "Tableau Certified Consultant.png", "title": "Tableau Certified Consultant" },
+            { "src": "Tableau Certified Architect.png", "title": "Tableau Certified Architect" }
+        ]
+    },
+    {
+        "Name": "Slack", "Title": "Slack", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/slack/",
+        "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "s0.png", "title": "Slack Certified Admin" },
+            { "src": "s1.png", "title": "Slack Certified Developer" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" }
+        ]
+    },
+    {
+        "Name": "Google Cloud", "Title": "Google Cloud", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/gc/",
+        "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "hybrid.multi.cloud.png", "title": "Google Hybrid Multi Cloud" },
+            { "src": "cloud.digital.leader.png", "title": "Google Digital Leader" },
+            { "src": "cloud.eng.png", "title": "Google Cloud Engineer" },
+            { "src": "data.eng.png", "title": "Google Data Engineer" },
+            { "src": "cloud.architect.png", "title": "Google Cloud Architect" },
+            { "src": "cloud.dev.png", "title": "Google Cloud Developer" },
+            { "src": "cloud.netword.eng.png", "title": "Google Cloud Network Engineer" },
+            { "src": "security.engineer.png", "title": "Google Cloud Security Engineer" },
+            { "src": "collaboration.eng.png", "title": "Google Cloud Collaboration Engineer" },
+            { "src": "cloud.devops.eng.png", "title": "Google Cloud DevOps Engineer" },
+            { "src": "machine.learning.eng.png", "title": "Google Cloud Machine Learning Engineer" }
+        ]
+    },
+    {
+        "Name": "Azure", "Title": "Azure", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/azure/",
+        "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "mcsd-badge.png", "title": "Azure MCSD" },
+            { "src": "microsoft-certified-associate-badge.png", "title": "Azure Associate Certified " },
+            { "src": "microsoft-certified-expert-badge.png", "title": "Azure Expert Certified " },
+            { "src": "microsoft-certified-fundamentals-badge.png", "title": "Azure Fundamentals Certified" },
+            { "src": "microsoft-certified-specialty-badge.png", "title": "Azure Speciality Certified" }
+        ]
+    },
+    {
+        "Name": "nCino", "Title": "nCino", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/ncino/",
+        "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "201 Commercial Banking Functional.png", "title": "201 Commercial Banking Functional" },
+            { "src": "301 Commercial Banking Configuration.png", "title": "301 Commercial Banking Configuration" },
+            { "src": "nCino Business Value.png", "title": "nCino Business Value" },
+            { "src": "201 Retail Banking Functional.png", "title": "201 Retail Banking Functional" },
+            { "src": "201 Customer Engagement Functional.png", "title": "201 Customer Engagement Functional" },
+            { "src": "201 Treasury Management Functional.png", "title": "201 Treasury Management Functional" },
+            { "src": "301 Retail Banking Configuration.png", "title": "301 Retail Banking Configuration" },
+            { "src": "301 Customer Engagement Configuration.png", "title": "301 Customer Engagement Configuration" },
+            { "src": "nCino Community Champion.png", "title": "nCino Community Champion" }
+        ]
+    },
+    {
+        "Name": "Scrum Alliance", "Title": "Scrum Alliance", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/scrumalliance/",
+        "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "SA_badge_cal_e.png", "title": "Agile Leadership Essentials" },
+            { "src": "SA_badge_cal_t.webp", "title": "Agile Leadership for Teams" },
+            { "src": "SA_badge_cal_o.png", "title": "Agile Leadership for Organizations" },
+            { "src": "SA_badge_cal_II.png", "title": "Agile Leadership II" },
+
+            { "src": "SA_badge_csm.webp", "title": "ScrumMaster" },
+            { "src": "SA_badge_a_csm.webp", "title": "Advanced Certified ScrumMaster" },
+            { "src": "SA_badge_csp_sm.webp", "title": "Scrum Professional" },
+
+            { "src": "SA_badge_cspo.webp", "title": "Scrum Product Owner" },
+            { "src": "SA_badge_a_cspo.png", "title": "Advanced Certified Scrum Product Owner" },
+            { "src": "SA_badge_csp_po.webp", "title": "Scrum Professional Product Owner" },
+            
+            { "src": "SA_badge_csd.webp", "title": "Scrum Developer" },
+            { "src": "SA_badge_a_csd.webp", "title": "Advanced Certified Scrum Developer" },
+            { "src": "SA_badge_csp_d.webp", "title": "Scrum Professional for Developers" },
+
+            { "src": "SA_badge_ctc.webp", "title": "Certified Team Coach" },
+            { "src": "SA_badge_cec.webp", "title": "Certified Enterprise Coach" },
+            { "src": "SA_badge_cst.png", "title": "Certified Scrum Trainer" },
+
+            { "src": "SA_badge_acs_cf.webp", "title": "Agile Coaching Skills - Certified Facilitator" }
+        ]
+    },
+    
+    {
+        "Name": "Others", "Title": "Others", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/other/",
+        "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "sfLogo.png", "title": "Salesforce Logo" },
+            { "src": "GPT Specialist.png", "title": "AIForce GPT Specialist" },
+            { "src": "formassembly-certified-badge.png", "title": "Form Assembly" },
+            { "src": "UiPath Academic Alliance Visionary Educator.png", "title": "UiPath Academic Alliance Visionary Educator" },
+            { "src": "UiPath Certified Professional Advanced RPA Developer (UiARD).png", "title": "UiPath Certified Professional Advanced RPA Developer (UiARD)" },
+            { "src": "UiPath Certified Professional Associate RPA Developer (UiRPA).png", "title": "UiPath Certified Professional Associate RPA Developer (UiRPA)" },
+            { "src": "UiPath Community Most Valuable Professional (MVP).png", "title": "UiPath Community Most Valuable Professional (MVP)" },
+            { "src": "UiPath Digital Credential Program.png", "title": "UiPath Digital Credential Program" },
+            { "src": "pmp-badge.png", "title": "Project Management Professional" },
+            { "src": "capm-badge.png", "title": "Certified Associate in Project Management" },
+            { "src": "pmi-pba-badge.png", "title": "PMI Professional in Business Analysis" },
+            { "src": "pgmp-badge.png", "title": "Program Management Professional" },
+            { "src": "pfmp-badge.png", "title": "Portfolio Management Professional" },
+            { "src": "pmi-rmp-badge.png", "title": "PMI Risk Management Professional" },
+            { "src": "pmi-sp-badge.png", "title": "PMI Scheduling Professional" },
+            { "src": "project_management_ready_badge.png", "title": "PMI Project Management Ready" },
+            { "src": "PMI-CP-Badge.png", "title": "Construction Professional in Built Environment Projects" }
+        ]
+    }
+]
