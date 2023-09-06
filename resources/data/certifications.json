@@ -11,6 +11,7 @@
             { "src": "Programmer.II.png", "title": "Platform Developer II" },
 
             { "src": "Associate.png", "title": "Associate" },
+            { "src": "AI.Associate.png", "title": "AI Associate" },
             { "src": "Sales-Representative.png", "title": "Sales Representative" },
 
             { "src": "System.Architect.png", "title": "System Architect" },
@@ -248,6 +249,21 @@
         "certs": [
             { "src": "s0.png", "title": "Slack Certified Admin" },
             { "src": "s1.png", "title": "Slack Certified Developer" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
+            { "src": "s2.png", "title": "Slack Certified Consultant" },
             { "src": "s2.png", "title": "Slack Certified Consultant" }
         ]
     },
