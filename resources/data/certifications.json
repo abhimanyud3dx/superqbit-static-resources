@@ -5,59 +5,59 @@
         "certs": [
             { "src": "Administrator.png", "title": "Administrator" },
             { "src": "Advanced.Administrator.png", "title": "Advanced Administrator" },
-            { "src": "App.Builder.png", "title": "Platform App Builder" },
             { "src": "Business Analyst.png", "title": "Business Analyst" },
-            { "src": "Programmer.I.png", "title": "Platform Developer I" },
-            { "src": "Programmer.II.png", "title": "Platform Developer II" },
+            { "src": "CPQ.Specialist.png", "title": "CPQ Specialist" },
+            { "src": "Marketing.Cloud.Administrator.png", "title": "Marketing Cloud Administrator" },
+            { "src": "App.Builder.png", "title": "Platform App Builder" },
 
-            { "src": "Associate.png", "title": "Associate" },
-            { "src": "AI.Associate.png", "title": "AI Associate" },
-            { "src": "Sales-Representative.png", "title": "Sales Representative" },
-
-            { "src": "System.Architect.png", "title": "System Architect" },
-            { "src": "Heroku.Architect.png", "title": "Heroku Architect" },
-            { "src": "Technical.Architect.png", "title": "Technical Architect" },
-
+            { "src": "Application.Architect.png", "title": "Application Architect" },
             { "src": "B2B.Solution.Architect.png", "title": "B2B Solution Architect" },
             { "src": "B2C.Solution.Architect.png", "title": "B2C Solution Architect" },
             { "src": "B2C.Commerce.Architect.png", "title": "B2C Commerce Architect" },
-            { "src": "B2C.Commerce.Developer.png", "title": "B2C Commerce Developer" },
-
-            { "src": "Industries.CPQ.Developer.png", "title": "Industries CPQ Developer" },
-            { "src": "JavaScript.Developer.png", "title": "JavaScript Developer I" },
-
-            { "src": "Marketing.Cloud.Administrator.png", "title": "Marketing Cloud Administrator" },
-            { "src": "Marketing.Cloud.Consultant.png", "title": "Marketing Cloud Consultant" },
-            { "src": "Marketing.Cloud.Developer.png", "title": "Marketing Cloud Developer" },
-            { "src": "Marketing.Cloud.Email.Specialist.png", "title": "Marketing Cloud Email Specialist" },
-
-            { "src": "Pardot.Consultant.png", "title": "Pardot Consultant" },
-            { "src": "Pardot.Specialist.png", "title": "Pardot Specialist" },
-
-            { "src": "Application.Architect.png", "title": "Application Architect" },
+            { "src": "Heroku.Architect.png", "title": "Heroku Architect" },
+            { "src": "System.Architect.png", "title": "System Architect" },            
+            { "src": "Technical.Architect.png", "title": "Technical Architect" },
             { "src": "Data.Architect.png", "title": "Data Architect" },
             { "src": "Dev.Lifecycle.and.Deploy.Architect.png", "title": "Development Lifecycle and Deployment Architect" },
             { "src": "ID.and.Access.Mgmt.Architect.png", "title": "Identity and Access Management Architect" },
             { "src": "Sharing.and.Visibility.Architect.png", "title": "Sharing and Visibility Architect" },
             { "src": "Integration.Architect.png", "title": "Integration Architect" },
+            
+            { "src": "B2C.Commerce.Developer.png", "title": "B2C Commerce Developer" },
+            { "src": "Industries.CPQ.Developer.png", "title": "Industries CPQ Developer" },
+            { "src": "JavaScript.Developer.png", "title": "JavaScript Developer I" },
+            { "src": "Marketing.Cloud.Developer.png", "title": "Marketing Cloud Developer" },
+            { "src": "Omnistudio.Developer.png", "title": "OmniStudio Developer" },
+            { "src": "Programmer.I.png", "title": "Platform Developer I" },
+            { "src": "Programmer.II.png", "title": "Platform Developer II" },
 
+            { "src": "Sales-Representative.png", "title": "Sales Representative" },
+
+            { "src": "Associate.png", "title": "Associate" },
+            { "src": "AI.Associate.png", "title": "AI Associate" },            
+            
+            { "src": "Marketing.Cloud.Consultant.png", "title": "Marketing Cloud Consultant" },            
+            { "src": "Marketing.Cloud.Email.Specialist.png", "title": "Marketing Cloud Email Specialist" },
+            { "src": "Marketing.Cloud.Account.Engagement.Consultant.png", "title": "Marketing Cloud Account Engagement Consultant" },
+            { "src": "Marketing.Cloud.Account.Engagement.Specialist.png", "title": "Marketing Cloud Account Engagement Specialist" },
+            { "src": "Pardot.Consultant.png", "title": "Pardot Consultant" },
+            { "src": "Pardot.Specialist.png", "title": "Pardot Specialist" },
+
+            { "src": "Data.Cloud.Consultant.png", "title": "Data Cloud Consultant" },
             { "src": "Field.Service.Lightning.Consultant.png", "title": "Field Service Consultant" },
             { "src": "Nonprofit.Cloud.Consultant.png", "title": "Nonprofit Cloud Consultant" },
             { "src": "Sales.Consultant.png", "title": "Sales Cloud Consultant" },
             { "src": "Service.Consultant.png", "title": "Service Cloud Consultant" },
             { "src": "Tableau.Einstein.Analytics.Discovery.Consultant.png", "title": "Tableau CRM and Einstein Discovery Consultant" },
-            { "src": "Certified.Ux.Designer.png", "title": "User Experience Designer" },
+            { "src": "Certified.Ux.Designer.png", "title": "User Experience (UX) Designer" },
             { "src": "Strategy Designer.png", "title": "Strategy Designer" },
-            { "src": "Education.Cloud.Consultant.png", "title": "Education Cloud Consultant" },
-            { "src": "CPQ.Specialist.png", "title": "CPQ Specialist" },
+            { "src": "Education.Cloud.Consultant.png", "title": "Education Cloud Consultant" },            
             { "src": "Experience.Cloud.Consultant.png", "title": "Experience Cloud Consultant" },
-
-            { "src": "Omnistudio.Consultant.png", "title": "OmniStudio Consultant" },
-            { "src": "Omnistudio.Developer.png", "title": "OmniStudio Developer" },
+            { "src": "Omnistudio.Consultant.png", "title": "OmniStudio Consultant" },            
 
             { "src": "Force.com.Developer.png", "title": "Force.com Developer" },
             { "src": "Force.com.Advanced.Developer.png", "title": "Force.com Advanced Developer" },
-            { "src": "Marketing Cloud Social Specialist.png", "title": "Marketing Cloud Social Specialist" },
+            { "src": "Marketing.Cloud.Social.Specialist.png", "title": "Marketing Cloud Social Specialist" },
             { "src": "Mobile Solutions Architecture Designer.png", "title": "Mobile Solutions Architecture Designer" }
         ]
     },
