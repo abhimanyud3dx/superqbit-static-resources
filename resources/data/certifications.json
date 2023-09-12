@@ -338,7 +338,6 @@
             { "src": "SA_badge_acs_cf.webp", "title": "Agile Coaching Skills - Certified Facilitator" }
         ]
     },
-    
     {
         "Name": "Others", "Title": "Others", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/other/",
         "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
@@ -346,6 +345,13 @@
             { "src": "sfLogo.png", "title": "Salesforce Logo" },
             { "src": "GPT Specialist.png", "title": "AIForce GPT Specialist" },
             { "src": "formassembly-certified-badge.png", "title": "Form Assembly" },
+
+            { "src": "Gearset.Sandbox.Seeding.Compliance.png", "title": "Gearset Sandbox Seeding and Compliance" },
+            { "src": "Gearset.Automation.png", "title": "Gearset Automation" },
+            { "src": "Gearset.CPQ.png", "title": "Gearset for CPQ" },
+            { "src": "Gearset.for.Backup.png", "title": "Gearset for Backup" },
+            { "src": "Gearset.Fundamentals.png", "title": "Gearset Fundamentals" },
+            
             { "src": "UiPath Academic Alliance Visionary Educator.png", "title": "UiPath Academic Alliance Visionary Educator" },
             { "src": "UiPath Certified Professional Advanced RPA Developer (UiARD).png", "title": "UiPath Certified Professional Advanced RPA Developer (UiARD)" },
             { "src": "UiPath Certified Professional Associate RPA Developer (UiRPA).png", "title": "UiPath Certified Professional Associate RPA Developer (UiRPA)" },
