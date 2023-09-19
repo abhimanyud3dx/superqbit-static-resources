@@ -365,7 +365,21 @@
             { "src": "pmi-rmp-badge.png", "title": "PMI Risk Management Professional" },
             { "src": "pmi-sp-badge.png", "title": "PMI Scheduling Professional" },
             { "src": "project_management_ready_badge.png", "title": "PMI Project Management Ready" },
-            { "src": "PMI-CP-Badge.png", "title": "Construction Professional in Built Environment Projects" }
+            { "src": "PMI-CP-Badge.png", "title": "Construction Professional in Built Environment Projects" },
+
+            { "src": "Professional Scrum Master I.png", "title": "Professional Scrum Master I" },
+            { "src": "Professional Scrum Master II.png", "title": "Professional Scrum Master II" },
+            { "src": "Professional Scrum Master III.png", "title": "Professional Scrum Master III" },
+            { "src": "Professional Scrum Product Owner I.png", "title": "Professional Scrum Product Owner I" },
+            { "src": "Professional Scrum Product Owner II.png", "title": "Professional Scrum Product Owner II" },
+            { "src": "Professional Scrum Product Owner III.png", "title": "Professional Scrum Product Owner III" },
+            { "src": "Professional Scrum Developer.png", "title": "Professional Scrum Developer" },
+            { "src": "Professional Agile Leadership.png", "title": "Professional Agile Leadership" },
+            { "src": "Professional Agile Leadership - Evidence-Based Management.png", "title": "Professional Agile Leadership - Evidence-Based Management" },
+            { "src": "Scaled Professional Scrum.png", "title": "Scaled Professional Scrum" },
+            { "src": "Professional Scrum Facilitation Skills.png", "title": "Professional Scrum Facilitation Skills" },
+            { "src": "Professional Scrum with Kanban.png", "title": "Professional Scrum with Kanban" },
+            { "src": "Professional Scrum with User Experience.png", "title": "Professional Scrum with User Experience" }
         ]
     }
 ]
