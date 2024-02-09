@@ -244,6 +244,18 @@
         ]
     },
     {
+        "Name": "Jira", "Title": "Jira", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/Jira/",
+        "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "Confluence Space Administration.png", "title": "Confluence Space Administration" },
+            { "src": "Managing Jira Projects for Data Center.png", "title": "Managing Jira Projects for Data Center" },
+            { "src": "Managing Jira Projects for Cloud.png", "title": "Managing Jira Projects for Cloud" },
+            { "src": "Jira Service Project Manager.png", "title": "Jira Service Project Manager" },
+            { "src": "Jira Administrator for Data Center.png", "title": "Jira Administrator for Data Center" },
+            { "src": "Expert.png", "title": "Expert" }
+        ]
+    },
+    {
         "Name": "Tableau", "Title": "Tableau", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/tableau/",
         "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
         "certs": [                
