@@ -238,12 +238,17 @@
         "Name": "Copado", "Title": "Copado", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/copado/",
         "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
         "certs": [
+            { "src": "DevOps Architect Cert Badge.png", "title": "DevOps Architect" },
+            { "src": "Fundamentals I Source Format Pipeline.png", "title": "Fundamentals I Source Format Pipeline" },
+            { "src": "FII MP.png", "title": "Fundamentals II Source Format Pipeline" },
+            { "src": "Fundamentals I Metadata Pipeline.png", "title": "Fundamentals I Metadata Pipeline" },
+            { "src": "FII SFP.png", "title": "Fundamentals II Metadata Pipeline" },
             { "src": "c1.png", "title": "Consultant" },
-            { "src": "f1.png", "title": "Fundamentals I" },
-            { "src": "f2.png", "title": "Fundamentals II" },
+            { "src": "CRT-Certified-Badge.png", "title": "Robotic Testing" },
             { "src": "Essentials+01.png", "title": "Essentials+" },
             { "src": "Extension Builder.png", "title": "Extension Builder" },
-            { "src": "CRT-Certified-Badge.png", "title": "Copado Robotic Testing" }
+            { "src": "CRT Maintenance.png", "title": "Robotic Testing Maintenance" },
+            { "src": "copado-maintenance.png", "title": "Maintenance" }
         ]
     },
     {
