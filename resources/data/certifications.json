@@ -225,11 +225,13 @@
         "Name": "Mulesoft", "Title": "Mulesoft", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/mule/",
         "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
         "certs": [
-            { "src": "MuleSoft Certified Developer - Level 1.png", "title": "MuleSoft Certified Developer - Level 1" },
-            { "src": "MuleSoft Certified Developer - Level 2.png", "title": "MuleSoft Certified Developer - Level 2" },
-            { "src": "MuleSoft Certified Integration Associate.svg", "title": "MuleSoft Certified Integration Associate" },
-            { "src": "MuleSoft Certified Integration Architect - Level 1.png", "title": "MuleSoft Certified Integration Architect - Level 1" },
-            { "src": "MuleSoft Certified Platform Architect - Level 1.png", "title": "MuleSoft Certified Platform Architect - Level 1" }
+			{ "src": "MuleSoft-Associate.svg", "title": "MuleSoft Associate" },
+			{ "src": "Hyperautomation-Specialist.svg", "title": "Hyperautomation Specialist" },
+            { "src": "MuleSoft-Developer-I.svg", "title": "MuleSoft Developer I" },
+            { "src": "MuleSoft-Developer-II.svg", "title": "MuleSoft Developer II" },
+			{ "src": "Catalyst-Specialist.svg", "title": "Catalyst Specialist" },
+            { "src": "MuleSoft-Integration-Architect-I.svg", "title": "MuleSoft Integration Architect I" },
+            { "src": "MuleSoft-Platform-Architect-I.svg", "title": "MuleSoft Platform Architect I" }
         ]
     },
     {
