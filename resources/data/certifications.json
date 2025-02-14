@@ -68,6 +68,10 @@
         "Type": "one",
         "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
         "certs": [
+            { "src": "agentblazer-level-1.png", "title": "Agentblazer Lv1" },
+            { "src": "agentblazer-level-2.png", "title": "Agentblazer Lv2" },
+            { "src": "agentblazer-level-3.png", "title": "Agentblazer Lv3" },
+            
             { "src": "scout.png", "title": "Scout" },
             { "src": "hiker.png", "title": "Hiker" },
             { "src": "explorer.png", "title": "Explorer" },
