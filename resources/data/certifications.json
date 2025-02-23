@@ -135,6 +135,7 @@
         "Name": "Superbadge", "Title": "Superbadge", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/sb/",
         "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
         "certs": [
+            { "src": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_prompt_builder_templates_sbu/32581be298e7d845c165a8831e821afc_badge.png", "title": "Prompt Builder Templates Superbadge Unit" },
             { "src": "Access Governance Superbadge Unit.png", "title": "Access Governance Superbadge Unit" },
             { "src": "Admin Super Set.png", "title": "Admin Super Set" },
             { "src": "Advanced Apex Specialist.png", "title": "Advanced Apex Specialist" },
