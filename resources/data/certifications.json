@@ -50,7 +50,7 @@
             { "src": "Nonprofit.Cloud.Consultant.png", "title": "Nonprofit Cloud Consultant" },
             { "src": "Sales.Consultant.png", "title": "Sales Cloud Consultant" },
             { "src": "Service.Consultant.png", "title": "Service Cloud Consultant" },
-            { "src": "Tableau.Einstein.Analytics.Discovery.Consultant.png", "title": "Tableau CRM and Einstein Discovery Consultant" },
+            { "src": "CRM.Analytics.Discovery.Consultant.png", "title": "CRM Analytics and Einstein Discovery Consultant" },
             { "src": "Certified.Ux.Designer.png", "title": "User Experience (UX) Designer" },
             { "src": "Strategy Designer.png", "title": "Strategy Designer" },
             { "src": "Education.Cloud.Consultant.png", "title": "Education Cloud Consultant" },
@@ -65,7 +65,7 @@
     },
     {
         "Name": "Trailblazer", "Title": "Trailblazer", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/tbzrRank/",
-        "Type": "one",
+        "Type": "all",
         "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
         "certs": [
             { "src": "agentblazer-level-1.png", "title": "Agentblazer Lv1" },
