@@ -312,19 +312,6 @@
         ]
     },
     {
-        "Name": "Mulesoft", "Title": "Mulesoft", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/mule/",
-        "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
-        "certs": [
-			{ "src": "MuleSoft-Associate.svg", "title": "MuleSoft Associate" },
-			{ "src": "Hyperautomation-Specialist.svg", "title": "Hyperautomation Specialist" },
-            { "src": "MuleSoft-Developer-I.svg", "title": "MuleSoft Developer I" },
-            { "src": "MuleSoft-Developer-II.svg", "title": "MuleSoft Developer II" },
-			{ "src": "Catalyst-Specialist.svg", "title": "Catalyst Specialist" },
-            { "src": "MuleSoft-Integration-Architect-I.svg", "title": "MuleSoft Integration Architect I" },
-            { "src": "MuleSoft-Platform-Architect-I.svg", "title": "MuleSoft Platform Architect I" }
-        ]
-    },
-    {
         "Name": "Copado", "Title": "Copado", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/copado/",
         "css": "slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
         "certs": [
