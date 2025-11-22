@@ -308,3 +308,6 @@ form {
 .tds-bg_success {
     background-color: #048149;
 }
+.slds-pill {
+	padding-right:10px !important;
+}
