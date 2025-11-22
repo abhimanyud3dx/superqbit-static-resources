@@ -311,3 +311,6 @@ form {
 .slds-pill {
 	padding-right:10px !important;
 }
+.slds-pill__label {
+	height: 16px !important;
+}
