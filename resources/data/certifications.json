@@ -2,8 +2,7 @@
     {
         "Name": "Salesforce", "Title": "Salesforce", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/",
         "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
-        "certs": [    
-            { "src": "sf_mvp.png", "title": "MVP" },
+        "certs": [
             { "src": "201.png", "title": "Platform Administrator" },
             { "src": "B2C.Solution.Architect.png", "title": "B2C Solution Architect" },
             { "src": "Education.Cloud.Consultant.png", "title": "Education Cloud Consultant" },
@@ -136,7 +135,8 @@
         "Name": "Trailblazer", "Title": "Trailblazer", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/tbzrRank/",
         "Type": "all",
         "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
-        "certs": [
+        "certs": [            
+            { "src": "sf_mvp.png", "title": "MVP" },
             { "src": "agentblazer-level-1.png", "title": "Agentblazer Lv1" },
             { "src": "agentblazer-level-2.png", "title": "Agentblazer Lv2" },
             { "src": "agentblazer-level-3.png", "title": "Agentblazer Lv3" },
