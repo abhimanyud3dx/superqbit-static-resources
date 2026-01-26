@@ -236,7 +236,7 @@ code, kbd, pre, samp {
 	display: block;
 	}
 	#main, #blogs_main, #about_main, #blog_main{
-	min-height:500px;
+	
 	}
 }
 body {

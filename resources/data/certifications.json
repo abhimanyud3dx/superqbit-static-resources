@@ -453,7 +453,6 @@
         "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
         "certs": [
             { "src": "sfLogo.png", "title": "Salesforce Logo" },
-            { "src": "GPT Specialist.png", "title": "AIForce GPT Specialist" },
             { "src": "formassembly-certified-badge.png", "title": "Form Assembly" },
 
             { "src": "Gearset.Sandbox.Seeding.Compliance.png", "title": "Gearset Sandbox Seeding and Compliance" },
