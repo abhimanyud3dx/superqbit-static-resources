@@ -203,6 +203,17 @@
         ]
     },
     {
+        "Name": "Claude", "Title": "Claude",
+        "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/claude/",
+        "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
+        "certs": [
+            { "src": "CCAO-F.png", "title": "Claude Certified Associate – Foundations" },
+            { "src": "CCDV-F.png", "title": "Claude Certified Developer – Foundations" },
+            { "src": "CCAR-F.png", "title": "Claude Certified Architect – Foundations" },
+            { "src": "CCAR-P.png", "title": "Claude Certified Architect – Professional" }
+        ]
+    },
+    {
         "Name": "Superbadge", "Title": "Superbadge", "path": "https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/sb/",
         "css": "certImg slds-col slds-size_1-of-2 slds-medium-size_4-of-12 slds-large-size_2-of-12 slds-p-around_small",
         "certs": [
