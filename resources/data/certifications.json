@@ -328,7 +328,10 @@
             { "src": "Essentials+01.png", "title": "Essentials+" },
             { "src": "Extension Builder.png", "title": "Extension Builder" },
             { "src": "CRT Maintenance.png", "title": "Robotic Testing Maintenance" },
-            { "src": "copado-maintenance.png", "title": "Maintenance" }
+            { "src": "copado-maintenance.png", "title": "Maintenance" },
+            { "src": "Copado.AI.png", "title": "Copado AI" },
+            { "src": "Copado.Certified.Data.360.png", "title": "Copado Certified Data 360" },
+            { "src": "Copado.Certified.Agentia.Advanced.png", "title": "Copado Certified Agentia Advanced" }
         ]
     },
     {
